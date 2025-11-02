@@ -1,6 +1,9 @@
-title: "Enquête — Restitution numérique"
+title: "Enquête: Restitution numérique"
+
 project:
   type: website
+  output-dir: docs
+
 website:
   title: "Enquête numérique"
   navbar:
@@ -17,15 +20,17 @@ website:
       - text: "Annexes"
         file: annexes.qmd
   page-footer:
-    center: "©Enquête numérique: Hanâa, Abdelkader, Alia"
+    center: "© Enquête numérique: Hanâa, Abdelkader, Alia"
+
 format:
   html:
     theme:
-      light: [minty, styles.scss]
-      dark: [cyborg, styles.scss]
+      light: minty
+      dark: cyborg
+    css: styles.css
     toc: true
     number-sections: true
     smooth-scroll: true
     code-fold: false
     link-external-newwindow: true
-    lightbox: true    
+    lightbox: true
