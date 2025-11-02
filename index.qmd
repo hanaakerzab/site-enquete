@@ -41,23 +41,7 @@ Par leurs choix, leurs pratiques et leurs habitudes, ils contribueraient à la c
 **A partir de ces hypothèses, la question qui guide notre enquêtre est la suivante:**
 
 
-> Nos observations rejoignent les analyses de Verwiebe et Hagemann (2025), qui prolongent la pensée de Bourdieu dans le contexte du numérique.
-Selon eux, les logiques de données et d’algorithmes produisent une forme de capital numérique, c’est-à-dire une ressource inégalement répartie qui détermine la manière dont les individus utilisent, comprennent et façonnent les plateformes.
-Ce capital numérique s’apparente au capital culturel : il dépend de la maîtrise des codes, de la capacité à produire du contenu “visible” et à décoder les mécanismes de recommandation.
-Autrement dit, certains utilisateurs savent “jouer avec l’algorithme”, tandis que d’autres subissent le flux qu’il leur impose.
-
-Cette distinction apparaît très clairement dans notre enquête.
-Sur TikTok, par exemple, les mêmes hashtags (#foot, #politique, #youtube) structurent les fils d’actualité.
-Les utilisateurs qui interagissent avec ces contenus reproduisent, sans en avoir toujours conscience, un univers cohérent mais fermé.
-Les goûts et intérêts personnels deviennent le point d’ancrage de tout le reste : le fil d’actualité se spécialise autour de ce que l’on est déjà, ou de ce que l’on partage avec ceux qui nous ressemblent.
-
-En ce sens, l’homogénéité des réseaux sociaux reflète les homogénéités du monde social.
-Les mêmes groupes sociaux — qu’ils soient définis par leurs références culturelles, leurs centres d’intérêt ou leur position sociale — tendent à fréquenter les mêmes espaces en ligne, à consommer les mêmes contenus et à interagir entre eux.
-Ce mécanisme renforce la clôture des univers numériques : les plateformes deviennent le prolongement d’un entre-soi déjà existant.
-On ne découvre plus vraiment d’autres mondes ; on retrouve sans cesse le sien, sous une autre forme.
-
-Ainsi, loin de créer de nouvelles divisions, les réseaux sociaux amplifient les distinctions préexistantes.
-Le numérique agit comme un miroir du social : il reproduit, parfois accentue, les inégalités symboliques en donnant plus de visibilité à ceux qui possèdent déjà les codes et en confinant les autres dans des espaces de consommation homogènes.**Comment les choix et interactions des utilisateurs sur les réseaux sociaux contribuent-ils à entretenir des environnements numériques homogènes et à renforcer le sentiment d’appartenance à une même communauté ?**
+**Comment les choix et interactions des utilisateurs sur les réseaux sociaux contribuent-ils à entretenir des environnements numériques homogènes et à renforcer le sentiment d’appartenance à une même communauté ?**
 
 ---
 
