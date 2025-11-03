@@ -317,7 +317,7 @@ Les étudiants expriment une volonté d’évasion:
 
 ## *De la personnalisation à la communauté*
 <p>
-En plus de tou ce qui a été déjè abordé, les entretiens montrent à quel point les réseaux deviennent le prolongement de sociabilités déjà existantes. L’ingénieur évoque <span class="quote-inline">"les communautés de jeux" sur Discord (Enquêté 1)</span>, 
+En plus de tout ce qui a été déjà abordé, les entretiens montrent à quel point les réseaux deviennent le prolongement de sociabilités déjà existantes. L’ingénieur évoque <span class="quote-inline">"les communautés de jeux" sur Discord (Enquêté 1)</span>, 
 l’avocat parle d’un <span class="quote-inline">"écosystème militant autour des droits humains"(Enquêté 2)</span> et l'étudiante explique en parlant de son grouoe d'amis: <span class="quote-inline">« on like les mêmes trucs » (Enquêtée 2)</span>. 
 Ces espaces d’appartenance semblent donc bien fondés sur la reconnaissance et la ressemblance et forment des environnements où la cohérence prime sur la contradiction. Le fil d’actualité agit alors comme un miroir collectif car il renvoie à l’utilisateur une version de lui-même et de son groupe.
 </p>
