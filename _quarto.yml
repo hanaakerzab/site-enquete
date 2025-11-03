@@ -17,7 +17,7 @@ website:
         file: partie2.qmd
       - text: "Discussion"
         file: partie3.qmd
-      - text: "Annexes"
+      - text: "Bibliographie"
         file: annexes.qmd
   page-footer:
     center: "© Enquête numérique: Hanâa, Abdelkader, Alia"
