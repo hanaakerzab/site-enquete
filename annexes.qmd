@@ -14,7 +14,14 @@ format:
   [Ouvrir la source](https://www.fondationdescartes.org/2020/07/bulles-de-filtre-et-chambres-decho/){target="_blank"}
 
 - **Pariser, E. (2011).** *The Filter Bubble.*  
-  [PDF](https://hci.stanford.edu/courses/cs047n/readings/The_Filter_Bubble.pdf){target="_blank"}
+  [Article](https://hci.stanford.edu/courses/cs047n/readings/The_Filter_Bubble.pdf){target="_blank"}
 
 - **Verwiebe & Hagemann (2024).** *Digital capital and social reproduction…*  
   [Article](https://www.tandfonline.com/doi/full/10.1080/1369118X.2024.2358170){target="_blank"}
+  
+- **Calderón Gómez (2021).** *The third digital divide and Bourdieu: Bidirectional conversion of economic, cultural, and social capital to (and from) digital capital among young people in Madrid.*  
+  [Article](https://www.researchgate.net/publication/342171195_The_third_digital_divide_and_Bourdieu_Bidirectional_conversion_of_economic_cultural_and_social_capital_to_and_from_digital_capital_among_young_people_in_Madrid){target="_blank"}
+
+  
+
+  
