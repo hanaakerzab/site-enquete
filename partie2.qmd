@@ -243,7 +243,7 @@ De fait, devoir choisir agit comme un filtrage initial car l’utilisateur n’a
 
 ![](images/IMG_2685.jpg){width=30%}
 ![](images/IMG_2681.jpg){width=30%}
-![](images/IMG_3124.jpg){width=31.5%}
+![](images/IMG_3124.jpg){width=30%}
 
 </div>
 
@@ -279,47 +279,28 @@ Pour accompagner cette analyse, nos quatre entretiens réalisés auprès d’ind
 ## *Des usages peu réfléchis*
 <p>
 Tous les enquêtés décrivent une présence quotidienne (presque automatique) sur les réseaux. 
-Les applications sont ouvertes sans but précis, souvent 
-<span class="quote-inline">"quand [ils ont] cinq minutes" (Enquêtée 2)</span>, 
-dans une logique d’habitude plus que de recherche. 
+Les applications sont ouvertes sans but précis, souvent<span class="quote-inline">"quand [ils ont] cinq minutes" (Enquêtée 2)</span>, dans une logique d’habitude plus que de recherche. 
 L’étudiant en ingénierie parle d’un 
-<span class="quote-inline">"scroll sans trop réfléchir" (Enquêté 1)</span>, 
-tandis que l’auditeur évoque des moments où 
-<span class="quote-inline">"je me dis “juste cinq minutes” et j’y suis encore une heure après" (Enquêté 4)</span>. 
-Ces pratiques traduisent une consommation passive car les utilisateurs ne vont pas vers l’information mais elle vient à eux.Les contenus sont découverts par les recommandations, les “pour toi” ou les partages d’amis, rarement par recherche directe. 
-Même les usagers qui disent “s’informer”, notamment l’étudiante de 19 ans, le font dans un cadre divertissant, Instagram et Twitter servent à se divertir: <span class="quote-inline">"voir l’actualité quand même. Mais les mêmes sur X sont super drôles" (Enquêtée 2)</span>.
+<span class="quote-inline">"scroll sans trop réfléchir" (Enquêté 1)</span>,  tandis que l’auditeur évoque des moments où <span class="quote-inline">"je me dis “juste cinq minutes” et j’y suis encore une heure après" (Enquêté 4)</span>. Ces pratiques traduisent une consommation passive car les utilisateurs ne vont pas vers l’information mais elle vient à eux.Les contenus sont découverts par les recommandations, les “pour toi” ou les partages d’amis, rarement par recherche directe. Même les usagers qui disent “s’informer”, notamment l’étudiante de 19 ans, le font dans un cadre divertissant, Instagram et Twitter servent à se divertir:<span class="quote-inline">"voir l’actualité quand même. Mais les mêmes sur X sont super drôles" (Enquêtée 2)</span>.
 </p>
 
 ## *La conscience du tri algorithmique sans remise en question*
 <p>
-Tous reconnaissent le caractère répétitif de leur fil mais pourtant peu le perçoivent négativement: <span class="quote-inline">"Euh non ça me dérange pas plus que ça, fin généralement au contraire je pense que si j'avais des trucs que j'aimais pas j'aurais arrêté d'utiliser" (Enquêtée 2)</span>, 
-<span class="quote-inline">"Je préfère quand c’est drôle, j’ai assez de boulot pour les débats" (Enquêté 1)</span>. 
-Cette tolérance d'homogénéité illustre bien que la répétition algorithmique n’est pas seulement subie mais recherchée. 
-L’avocat, plus critique, admet lui aussi 
-<span class="quote-inline">"un effet d’entre-soi" sur Instagram</span>, 
-mais parle d’un 
-<span class="quote-inline">"confort intellectuel" qu’il assume (Enquêté 2)</span>.
+Tous reconnaissent le caractère répétitif de leur fil mais pourtant peu le perçoivent négativement:<span class="quote-inline">"Euh non ça me dérange pas plus que ça, fin généralement au contraire je pense que si j'avais des trucs que j'aimais pas j'aurais arrêté d'utiliser" (Enquêtée 2)</span>,<span class="quote-inline">"Je préfère quand c’est drôle, j’ai assez de boulot pour les débats" (Enquêté 1)</span>. Cette tolérance d'homogénéité illustre bien que la répétition algorithmique n’est pas seulement subie mais recherchée. L’avocat, plus critique, admet lui aussi<span class="quote-inline">"un effet d’entre-soi" sur Instagram</span>, mais parle d’un<span class="quote-inline">"confort intellectuel" qu’il assume (Enquêté 2)</span>.
 </p>
 
 ## *Une homogénéité sociale et culturelle assumée*
 <p>
-L’ingénieur aime <span class="quote-inline">"retrouver un ton que je comprends, des références que j’ai" (Enquêté 1)</span>. 
-L’étudiante de 19 ans suit des créateurs <span class="quote-inline">"qui partagent [sa] mentalité"</span> et admire 
-<span class="quote-inline">"ceux qui défendent un point de vue construit"</span>. L’identification fonctionne aussi à travers les pairs car <span class="quote-inline">"j'envoie toujours des videos à mes copines sur Tiktok et souvent elles en ont déjà vu certaines" (Enquêtée 3)</span>. Cette homogénéité des usages traduit une prolongation du capital culturel hors ligne car les affinités sociales structurent les contenus visibles dans un groupe.
+L’ingénieur aime <span class="quote-inline">"retrouver un ton que je comprends, des références que j’ai" (Enquêté 1)</span>. L’étudiante de 19 ans suit des créateurs <span class="quote-inline">"qui partagent [sa] mentalité"</span> et admire <span class="quote-inline">"ceux qui défendent un point de vue construit"</span>. L’identification fonctionne aussi à travers les pairs car<span class="quote-inline">"j'envoie toujours des videos à mes copines sur Tiktok et souvent elles en ont déjà vu certaines" (Enquêtée 3)</span>. Cette homogénéité des usages traduit une prolongation du capital culturel hors ligne car les affinités sociales structurent les contenus visibles dans un groupe.
 </p>
 
 ## *Des différences générationnelles et d’attitude face aux contenus*
 <p>
-L’analyse comparée des profils montre que les plus jeunes utilisent les réseaux de manière ludique tandis que les plus âgés (l’avocat notamment) mobilisent les plateformes pour articuler engagement et expression personnelle. 
-Les étudiants expriment une volonté d’évasion:
-<span class="quote-inline">"je veux juste me détendre pas me battre" (Enquêtée 1)</span>. L’avocat, au contraire, revendique un usage réflexif car <span class="quote-inline">"je m’abonne aussi à quelques comptes opposés pour voir comment ils pensent" (Enquêté 2)</span> même s’il reconnaît que son fil reste 
-<span class="quote-inline">" très très politique et même très à gauche"</span>. Cette tension illustre la diversité des rapports à la réflexivité numérique car la plupart se contentent de filtrer ce qui dérange tandis que certains cherchent activement à comprendre le fonctionnement du flux. 
+L’analyse comparée des profils montre que les plus jeunes utilisent les réseaux de manière ludique tandis que les plus âgés (l’avocat notamment) mobilisent les plateformes pour articuler engagement et expression personnelle. Les étudiants expriment une volonté d’évasion:<span class="quote-inline">"je veux juste me détendre pas me battre" (Enquêtée 1)</span>. L’avocat, au contraire, revendique un usage réflexif car<span class="quote-inline">"je m’abonne aussi à quelques comptes opposés pour voir comment ils pensent" (Enquêté 2)</span> même s’il reconnaît que son fil reste <span class="quote-inline">" très très politique et même très à gauche"</span>. Cette tension illustre la diversité des rapports à la réflexivité numérique car la plupart se contentent de filtrer ce qui dérange tandis que certains cherchent activement à comprendre le fonctionnement du flux. 
 
 ## *De la personnalisation à la communauté*
 <p>
-En plus de tout ce qui a été déjà abordé, les entretiens montrent à quel point les réseaux deviennent le prolongement de sociabilités déjà existantes. L’ingénieur évoque <span class="quote-inline">"les communautés de jeux" sur Discord (Enquêté 1)</span>, 
-l’avocat parle d’un <span class="quote-inline">"écosystème militant autour des droits humains"(Enquêté 2)</span> et l'étudiante explique en parlant de son grouoe d'amis: <span class="quote-inline">« on like les mêmes trucs » (Enquêtée 2)</span>. 
-Ces espaces d’appartenance semblent donc bien fondés sur la reconnaissance et la ressemblance et forment des environnements où la cohérence prime sur la contradiction. Le fil d’actualité agit alors comme un miroir collectif car il renvoie à l’utilisateur une version de lui-même et de son groupe.
+En plus de tout ce qui a été déjà abordé, les entretiens montrent à quel point les réseaux deviennent le prolongement de sociabilités déjà existantes. L’ingénieur évoque<span class="quote-inline">"les communautés de jeux" sur Discord (Enquêté 1)</span>, l’avocat parle d’un <span class="quote-inline">"écosystème militant autour des droits humains"(Enquêté 2)</span> et l'étudiante explique en parlant de son grouoe d'amis:<span class="quote-inline">"on like les mêmes trucs" (Enquêtée 2)</span>. Ces espaces d’appartenance semblent donc bien fondés sur la reconnaissance et la ressemblance et forment des environnements où la cohérence prime sur la contradiction. Le fil d’actualité agit alors comme un miroir collectif car il renvoie à l’utilisateur une version de lui-même et de son groupe.
 </p>
 
 
