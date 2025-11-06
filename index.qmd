@@ -47,6 +47,6 @@ Par leurs choix, leurs pratiques et leurs habitudes, ils contribueraient à la c
 
 # Comment naviguer ce site 
 
-- Barre du haut = onglets (Présentation, Méthodologie, Résultats, Discussion, Annexes).
+- Barre du haut = onglets (Présentation, Méthodologie, Résultats, Discussion, Bibliographie).
 - Menu latéral = table des matières de la page courante.
 - Un mode sombre est disponible 
